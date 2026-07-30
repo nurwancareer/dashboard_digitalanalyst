@@ -3,7 +3,7 @@
 Studi kasus **Digital Analyst** untuk Mahaka Radio Integra — analisis performa konten YouTube channel *Duo Bahlul* (51 video, Jun 2025–Jul 2026), mencakup tren pencarian, korelasi search interest terhadap views, performa per kategori topik, dan comment/sentiment analysis.
 
 🔗 **Live Dashboard:**  https://nurwancareer.github.io/dashboard_digitalanalyst/
-📄 **Case Study Deck:** docs/Duo Bahlul Analysis.pdf
+📄 **Case Study Deck:** [docs/Duo Bahlul Analysis.pdf]
 
 ## Struktur Proyek
 
