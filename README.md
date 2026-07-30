@@ -5,7 +5,7 @@ Studi kasus **Digital Analyst** untuk Mahaka Radio Integra — analisis performa
 🔗 **Live Dashboard:** [https://nurwancareer.github.io/dashboard_digitalanalyst/](https://nurwancareer.github.io/dashboard_digitalanalyst/)
 
 
-📄 **Case Study Deck:** [docs/Duo Bahlul Analysis.pdf](docs/Duo Bahlul Analysis.pdf)
+📄 **Case Study Deck:** [`docs/Duo_Bahlul_Content_Analysis.pdf`](docs/Duo_Bahlul_Content_Analysis.pdf)
 
 ## Struktur Proyek
 
