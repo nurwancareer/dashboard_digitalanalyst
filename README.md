@@ -1,40 +1,40 @@
 # Duo Bahlul Content Performance Dashboard
 
-Studi kasus **Digital Analyst** untuk Mahaka Radio Integra — analisis performa konten YouTube channel *Duo Bahlul* (51 video, Jun 2025–Jul 2026), mencakup tren pencarian, korelasi search interest terhadap views, performa per kategori topik, dan comment/sentiment analysis.
+Case study for the **Digital Analyst** role at Mahaka Radio Integra — a content performance analysis of the *Duo Bahlul* Youtube channel (51 videos, Jun 2025-Jul 2026), covering search trends, the correlation between search interest and views, performance by topic category, and comment/sentiment analysis.
 
 🔗 **Live Dashboard:** [https://nurwancareer.github.io/dashboard_digitalanalyst/](https://nurwancareer.github.io/dashboard_digitalanalyst/)
 
 
 📄 **Case Study Deck:** [`docs/Duo_Bahlul_Content_Analysis.pdf`](docs/Duo_Bahlul_Content_Analysis.pdf)
 
-## Struktur Proyek
+## Project Structure
 
 ```
-├── index.html                          # Dashboard interaktif (HTML + Chart.js)
+├── index.html                          # Interactive dashboard (HTML + Chart.js)
 ├── docs/
-│   └── Duo_Bahlul_Content_Analysis.pdf # Deck studi kasus (landscape, sentiment, key findings, rekomendasi)
+│   └── Duo_Bahlul_Content_Analysis.pdf # Case Study deck (landscape, sentiment, key findings, recommendations)
 └── data/
     └── processed/
-        ├── duo_bahlul_videos.csv       # Data 51 video: views, likes, comments, durasi, kategori topik
-        └── duo_bahlul_categories.csv   # Ringkasan performa per kategori topik
+        ├── duo_bahlul_videos.csv       # Data for 51 videos: views, likes, comments, duration, topic category
+        └── duo_bahlul_categories.csv   # Performance summary by topic category
 ```
 
-## Ringkasan Studi Kasus
+## Case study summary
 
-1. **Duo Bahlul Landscape** — breakout pencarian >5.000% sepanjang 2026, didorong amplifikasi personal host dan ekosistem media sosial (TikTok, Instagram Reels).
-2. **Content Context** — pemetaan kalender konten terhadap musim pencarian (mis. klaster Ramadan).
-3. **Comment & Sentiment Analysis** — analisis sentimen komentar penonton.
-4. **Key Findings (Data POV)** — insight berbasis data dari korelasi search interest vs performa video.
-5. **Actionable Recommendations** — rekomendasi strategi konten.
+1. **Duo Bahlul Landscape** — a search breakout of >5.000% throughout 2026, driven by host personal amplification and the surrounding social media ecosystem (TikTok, Instagram Reels).
+2. **Content Context** — mapping the content calendar against search seasonality (e.g. the Ramadan cluster).
+3. **Comment & Sentiment Analysis** — Sentiment analysis of viewer comments.
+4. **Key Findings (Data POV)** — data-driven insights from the correlation between search interest and video performance.
+5. **Actionable Recommendations** — content strategy recommendations.
 
-Detail lengkap ada di deck PDF pada folder `docs/`.
+Full details are in the PDF deck inside the `docs/` folder.
 
 ## Tools
 
-- **Analisis & pengolahan data:** Python / Excel
+- **Analysis & data processing:** Python / Excel
 - **Dashboard:** HTML, CSS, Chart.js
-- **Presentasi:** disusun sebagai slide deck, diekspor ke PDF untuk portofolio
+- **Presentation:** built as a slide deck, exported to PDF for the portfolio
 
-## Catatan
+## Notes
 
-Dataset merupakan hasil analisis pribadi atas data publik YouTube channel Duo Bahlul, disusun sebagai bagian dari proses rekrutmen Digital Analyst di Mahaka Radio Integra.
+The dataset is the result of a personal analysis of public Youtube data from Duo Bahlul channel, prepared as part of the Digital Analyst recruitment process at Mahaka Radio Integra.
